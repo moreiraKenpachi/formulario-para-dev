@@ -1,0 +1,13 @@
+
+******************************
+package utils in app:
+
+"card-validator"
+"@brazilian-utils/brazilian-utils"
+"react-hook-form"
+"@hookform/resolvers"
+"polished"
+"react-imask"
+"react-toastify"
+"yup"
+
